@@ -1,4 +1,4 @@
-# Hi there, I'm Vishalkirthik! 👋
+# Heyya, I'm Vishalkirthik! 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Software_Engineering_Intern-TripandThrill-FF6B6B?style=for-the-badge" alt="Role" />
