@@ -62,16 +62,9 @@ I'm a Full-Stack Developer focused on building scalable web and mobile applicati
 
 ---
 
-### 📊 GitHub Stats & Progress
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishalkirthik-TV&show_icons=true&theme=github_dark&hide_border=true" alt="Vishal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalkirthik-TV&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vishalkirthik-TV&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
+![Vishal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishalkirthik-TV&theme=github-dark)
 
 ---
 
