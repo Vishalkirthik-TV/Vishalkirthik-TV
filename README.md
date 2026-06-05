@@ -62,11 +62,11 @@ I'm a Full-Stack Developer focused on building scalable web and mobile applicati
 
 ---
 
-[## 📊 GitHub Activity
+## 📊 GitHub Activity
 
-![Vishal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishalkirthik-TV&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Vishalkirthik-TV&theme=github-dark&hide_border=true)
 
-](https://streak-stats.demolab.com?user=Vishalkirthik-TV&theme=github-dark&hide_border=true)---
+---
 
 ### 📫 Let's Connect!
 
