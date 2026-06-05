@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Location-Nagpur,_IN-FFE66D?style=for-the-badge" alt="Location" />
 </p>
 
-I'm a Full-Stack Developer focused on building scalable web and mobile applications. I enjoy solving complex engineering problems across frontend, backend, and mobile ecosystems, with experience building real-time communication platforms, OCR-powered workflows, and fintech solutions.
+I'm a Full-Stack Developer focused on building scalable web and mobile applications. I enjoy helping to solve engineering problems across frontend, backend, and mobile ecosystems, with experience building real-time communication platforms, OCR-powered workflows, and backend solutions.
 
 ---
 
